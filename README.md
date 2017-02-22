@@ -12,7 +12,7 @@ cd letsencrypt
 
 chmod +x letsencrypt-auto
 
-git clone renew_lets_encrypt.sh to your server.
+git clone renew_letsencrypt.sh to your server.
 
 cd /opt/
 
