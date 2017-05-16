@@ -20,7 +20,7 @@ git clone https://github.com/infinityonhigh9669/renew-letsencrypt
 
 cd renew-letsencrypt
 
-chmod +x renew_lets_encrypt.sh
+chmod +x renew_letsencrypt.sh
 
 # Add script to crond at 00:00 on day-of-month 1.
 
